@@ -1,0 +1,8 @@
+
+{
+  "name": "Aura Sport",
+  "description": "المنصة الإخبارية الرسمية لتطبيق Aura Sport، تغطية شاملة ونتائج مباشرة بذكاء اصطناعي.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
