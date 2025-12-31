@@ -1,0 +1,16 @@
+{
+  "source": "Aura Sport",
+  "updated_at": "2025-12-31",
+  "news": [
+    {
+      "id": 1,
+      "title": "Aura Sport أصبح المصدر الرسمي للأخبار",
+      "summary": "تم تفعيل موقع Aura Sport كمصدر مباشر لأخبار التطبيق.",
+      "image": "https://via.placeholder.com/600x400",
+      "league": "General",
+      "sport": "football",
+      "url": "https://aura-sport-web.vercel.app",
+      "published_at": "2025-12-31"
+    }
+  ]
+}
